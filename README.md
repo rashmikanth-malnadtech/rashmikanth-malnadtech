@@ -7,7 +7,7 @@
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rashmikanth-malnadtech&show_icons=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rashmikanth-tech&show_icons=true&hide_border=true" />
 </p>
 
 <p align="center">
@@ -16,4 +16,10 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashmikanth-tech&layout=compact&hide_border=true" />
+</p>
+
+## Contributions
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=rashmikanth-malnadtech&limit=5&theme=default&combine_all_yearly_contributions=true" />
 </p>
