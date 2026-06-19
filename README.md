@@ -18,8 +18,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashmikanth-tech&layout=compact&hide_border=true" />
 </p>
 
-## Contributions
+## Total Contributions
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=rashmikanth-malnadtech&limit=5&theme=default&combine_all_yearly_contributions=true" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=rashmikanth-malnadtech&limit=5&combine_all_yearly_contributions=true" />
 </p>
