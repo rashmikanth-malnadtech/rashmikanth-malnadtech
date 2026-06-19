@@ -21,5 +21,5 @@
 ## Contribution Graph
 
 <p align="center">
-  <img src="https://github.com/rashmikanth-tech/rashmikanth-tech/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/rashmikanth-malnadtech/rashmikanth-malnadtech/blob/output/github-contribution-grid-snake.svg" />
 </p>
