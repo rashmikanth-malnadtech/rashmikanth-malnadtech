@@ -7,7 +7,7 @@
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rashmikanth-tech&show_icons=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rashmikanth-malnadtech&show_icons=true&hide_border=true" />
 </p>
 
 <p align="center">
@@ -16,10 +16,4 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashmikanth-tech&layout=compact&hide_border=true" />
-</p>
-
-## Contribution Graph
-
-<p align="center">
-  <img src="https://github.com/rashmikanth-malnadtech/rashmikanth-malnadtech/blob/output/github-contribution-grid-snake.svg" />
 </p>
